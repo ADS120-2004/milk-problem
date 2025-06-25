@@ -13,3 +13,25 @@ When their society's testing machine (especially the printer) fails, they are un
 
 ## 📁 Project Structure
 
+
+## 🧠 ML Model
+
+- **Algorithm:** Linear Regression
+- **Inputs:** Fat (%), SNF (%)
+- **Output:** Milk Rate (₹ per litre)
+
+## 🔧 Requirements
+
+- Python 3.x
+- pandas
+- scikit-learn
+- joblib
+## 💡 Inspiration
+This project was built after observing a real-world need in my neighbourhood and using machine learning to deliver a practical solution for dairy farmers.
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+
+python src/train_model.py
+markdown
